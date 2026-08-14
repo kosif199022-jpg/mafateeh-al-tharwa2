@@ -1,0 +1,321 @@
+{
+  "version": 2,
+  "title": "مفاتيح الثروة — النسخة الصوتية الكاملة",
+  "voice": "mixed",
+  "sources": [
+    "gemini-3.1-flash-tts-preview",
+    "gemini-3.1-and-2.5-flash-tts-preview",
+    "gemini-2.5-flash-tts-preview"
+  ],
+  "generated_at": "2026-08-11T00:19:37.492Z",
+  "total_duration": 17361,
+  "total_bytes": 69464504,
+  "chapters": [
+    {
+      "no": 1,
+      "title": "الامتنان: بداية الزيادة",
+      "file": "/audio/chapter-01.mp3",
+      "duration": 378,
+      "bytes": 1513528,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 2,
+      "title": "النية: من الإرادة إلى العمل",
+      "file": "/audio/chapter-02.mp3",
+      "duration": 317,
+      "bytes": 1270176,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 3,
+      "title": "فكّ الارتباط: المفهوم والأساس",
+      "file": "/audio/chapter-03.mp3",
+      "duration": 305,
+      "bytes": 1218724,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 4,
+      "title": "فكّ الارتباط عن الأفكار والاعتقادات",
+      "file": "/audio/chapter-04.mp3",
+      "duration": 322,
+      "bytes": 1286512,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 5,
+      "title": "فكّ الارتباط عن الأشخاص السلبيين",
+      "file": "/audio/chapter-05.mp3",
+      "duration": 314,
+      "bytes": 1255498,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 6,
+      "title": "فكّ الارتباط عن الأهداف المتحققة",
+      "file": "/audio/chapter-06.mp3",
+      "duration": 298,
+      "bytes": 1191370,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 7,
+      "title": "الأهداف المؤجلة والمعلّقة والملغاة",
+      "file": "/audio/chapter-07.mp3",
+      "duration": 300,
+      "bytes": 1199150,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 8,
+      "title": "وضع الأهداف الذكية",
+      "file": "/audio/chapter-08.mp3",
+      "duration": 305,
+      "bytes": 1221870,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 9,
+      "title": "ترسيخ الهدف بالصورة والنية",
+      "file": "/audio/chapter-09.mp3",
+      "duration": 320,
+      "bytes": 1282366,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 10,
+      "title": "خطة الدراسة ومنهج التطبيق",
+      "file": "/audio/chapter-10.mp3",
+      "duration": 182,
+      "bytes": 727964,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 11,
+      "title": "مقدمة التفكير المؤدي للنتائج",
+      "file": "/audio/chapter-11.mp3",
+      "duration": 556,
+      "bytes": 2226242,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 12,
+      "title": "الدرس الأول: وضع الأهداف",
+      "file": "/audio/chapter-12.mp3",
+      "duration": 459,
+      "bytes": 1836954,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 13,
+      "title": "الدرس الثاني: الفجوة بين القول والفعل",
+      "file": "/audio/chapter-13.mp3",
+      "duration": 622,
+      "bytes": 2489300,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 14,
+      "title": "الدرس الثالث: النموذج الفكري (البرادايم) وتغيير العادات",
+      "file": "/audio/chapter-14.mp3",
+      "duration": 653,
+      "bytes": 2612024,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 15,
+      "title": "الدرس الرابع: المارد السحري - نموذج رجل العصا",
+      "file": "/audio/chapter-15.mp3",
+      "duration": 612,
+      "bytes": 2448132,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 16,
+      "title": "الدرس الخامس: الملكات العقلية الست",
+      "file": "/audio/chapter-16.mp3",
+      "duration": 583,
+      "bytes": 2330990,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 17,
+      "title": "الدرس السادس: الصورة الذهنية",
+      "file": "/audio/chapter-17.mp3",
+      "duration": 743,
+      "bytes": 2970530,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 18,
+      "title": "الدرس السابع: كسر حاجز الرهبة",
+      "file": "/audio/chapter-18.mp3",
+      "duration": 595,
+      "bytes": 2379460,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 19,
+      "title": "الدرس الثامن: الإيمان",
+      "file": "/audio/chapter-19.mp3",
+      "duration": 573,
+      "bytes": 2293044,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 20,
+      "title": "الدرس التاسع: الموقف السلوكي",
+      "file": "/audio/chapter-20.mp3",
+      "duration": 925,
+      "bytes": 3701858,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 21,
+      "title": "الدرس العاشر: القيادة",
+      "file": "/audio/chapter-21.mp3",
+      "duration": 1020,
+      "bytes": 4079988,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 22,
+      "title": "الدرس الحادي عشر: ترك الآخرين بشعور الزيادة",
+      "file": "/audio/chapter-22.mp3",
+      "duration": 1109,
+      "bytes": 4436480,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 23,
+      "title": "الدرس الثاني عشر: العقل المدبر",
+      "file": "/audio/chapter-23.mp3",
+      "duration": 1198,
+      "bytes": 4793382,
+      "voice": "mixed",
+      "source": "gemini-3.1-and-2.5-flash-tts-preview"
+    },
+    {
+      "no": 24,
+      "title": "القرار الأول",
+      "file": "/audio/chapter-24.mp3",
+      "duration": 165,
+      "bytes": 661890,
+      "voice": "mixed",
+      "source": "gemini-3.1-flash-tts-preview"
+    },
+    {
+      "no": 25,
+      "title": "القرار الثاني",
+      "file": "/audio/chapter-25.mp3",
+      "duration": 145,
+      "bytes": 581444,
+      "voice": "mixed",
+      "source": "gemini-2.5-flash-tts-preview"
+    },
+    {
+      "no": 26,
+      "title": "القرار الثالث",
+      "file": "/audio/chapter-26.mp3",
+      "duration": 153,
+      "bytes": 611876,
+      "voice": "mixed",
+      "source": "gemini-2.5-flash-tts-preview"
+    },
+    {
+      "no": 27,
+      "title": "القرار الرابع",
+      "file": "/audio/chapter-27.mp3",
+      "duration": 140,
+      "bytes": 560324,
+      "voice": "mixed",
+      "source": "gemini-2.5-flash-tts-preview"
+    },
+    {
+      "no": 28,
+      "title": "القرار الخامس",
+      "file": "/audio/chapter-28.mp3",
+      "duration": 137,
+      "bytes": 549764,
+      "voice": "mixed",
+      "source": "gemini-2.5-flash-tts-preview"
+    },
+    {
+      "no": 29,
+      "title": "القرار السادس",
+      "file": "/audio/chapter-29.mp3",
+      "duration": 152,
+      "bytes": 608996,
+      "voice": "mixed",
+      "source": "gemini-2.5-flash-tts-preview"
+    },
+    {
+      "no": 30,
+      "title": "الغاية والرؤية والأهداف",
+      "file": "/audio/chapter-30.mp3",
+      "duration": 1474,
+      "bytes": 5895352,
+      "voice": "mixed",
+      "source": "gemini-2.5-flash-tts-preview"
+    },
+    {
+      "no": 31,
+      "title": "المخاطرة",
+      "file": "/audio/chapter-31.mp3",
+      "duration": 446,
+      "bytes": 1785850,
+      "voice": "mixed",
+      "source": "gemini-2.5-flash-tts-preview"
+    },
+    {
+      "no": 32,
+      "title": "درس كرسي الحلاق",
+      "file": "/audio/chapter-32.mp3",
+      "duration": 947,
+      "bytes": 3789192,
+      "voice": "mixed",
+      "source": "gemini-2.5-flash-tts-preview"
+    },
+    {
+      "no": 33,
+      "title": "قصة هيرب كيلهير",
+      "file": "/audio/chapter-33.mp3",
+      "duration": 355,
+      "bytes": 1420392,
+      "voice": "mixed",
+      "source": "gemini-2.5-flash-tts-preview"
+    },
+    {
+      "no": 34,
+      "title": "تربل 333",
+      "file": "/audio/chapter-34.mp3",
+      "duration": 558,
+      "bytes": 2233882,
+      "voice": "mixed",
+      "source": "gemini-2.5-flash-tts-preview"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+Mafateeh Al-Tharwa V24 — GitHub/Cloudflare upload bundle
+
+Upload the CONTENTS of this folder to the ROOT of your GitHub repository.
+Keep the folder structure exactly as it is.
+
+Do NOT add real API keys to this repository.
+Add GEMINI_API_KEY and OPENAI_API_KEY later as Cloudflare secrets/environment variables.
+
+This bundle intentionally excludes tests, documentation, iOS native files, examples,
+and verification reports because they are not required to deploy the website.

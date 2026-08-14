@@ -1,0 +1,19 @@
+مفاتيح الثروة — نسخة GitHub / Cloudflare المصححة
+
+ارفع محتويات هذا المجلد إلى جذر Repository باسم mafateeh-al-tharwa.
+
+إعدادات Cloudflare Workers Builds:
+Build command: npm run build
+Deploy command: npx wrangler deploy
+Root directory: /
+
+بعد نجاح أول Deploy أضف مفاتيح API من:
+Worker > Settings > Variables & Secrets
+ولا ترفع ملف .env إلى GitHub.
+
+المتغيرات الأساسية:
+GEMINI_API_KEY
+OPENAI_API_KEY
+
+ملاحظة:
+تم فصل Build الخاص بـCloudflare عن scripts/build-verified.sh وsites-env.sh حتى لا يعتمد البناء على executable permissions لملفات shell المرفوعة من الهاتف/GitHub.
